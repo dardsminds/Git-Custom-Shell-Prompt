@@ -1,1 +1,1 @@
-# mac_custom_git_cl
+Customize your Mac terminal to show git branch name on the prompt
